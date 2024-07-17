@@ -26,5 +26,4 @@ const marvel = {
     }
 };
 marvel.render();
-
-//This is my work
+// Request of the API with the Marvel characters
